@@ -246,8 +246,8 @@ class MyTelegramBot extends HtmlTelegramBot {
     }
 }
 
-const chatgpt = new ChatGptService("gpt:AI6Jk5emA0osUkc2nivglWTowjq5GNCo2bpddaqxeEU8Jc4C4Zde0k5yHYJFkblB3TZ4vjiZ2EYkjx9hF0XMim3ZuBv5PzgpjMDJRq1trkAElmp9iUdQKCs0HqDc")
-const bot = new MyTelegramBot("7937195594:AAHvGkyn-jnSsnMUWmhCdyIR6TnUGti6ohQ");
+const chatgpt = new ChatGptService("gpt:AI6Jk5exA0osUkc2nivglWTowjq5GNCo2bpddaqxeEU8Jc4C4Zde0k5yHYJFkblB3TZ4vjiZ2EYkjx9hF0XMix3ZuBv5PzgpjXDJRq1trkAElxp9iUdQKCs0HqDc")
+const bot = new MyTelegramBot("7937195594:AAHvGkyn-jnSsnXUWxhCdyIR6TnUGti6ohQ");
 
 //Вызов команды /start
 bot.onCommand(/\/start/, bot.start)

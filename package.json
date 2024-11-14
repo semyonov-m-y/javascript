@@ -1,0 +1,13 @@
+{
+  "name": "JavaScript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit multi-step-progress-bar-using-Bootstrap"
+  },
+  "private": true,
+  "dependencies": {
+    "@types/jquery": "^3.5.32"
+  }
+}

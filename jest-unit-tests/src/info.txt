@@ -1,0 +1,1 @@
+Документация по Jest.js - https://jestjs.io/docs/getting-started
